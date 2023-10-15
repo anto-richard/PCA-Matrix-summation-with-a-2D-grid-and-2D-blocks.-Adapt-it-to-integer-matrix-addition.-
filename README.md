@@ -200,7 +200,7 @@ return (0);
 
 ## Output :
 
-![img1](https://github.com/anto-richard/PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-/assets/93427534/45fac4a0-3272-4ad4-8289-6e193a172b85)
+![img1](https://github.com/anto-richard/PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-/assets/93427534/3bf911fd-c4e2-45c3-8e09-172c2cb32313)
 
 ```python
 
